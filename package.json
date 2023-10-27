@@ -1,15 +1,15 @@
- {
-  "name": "a5-accessibility",
+{
+  "name": "accessibility-ass-syeda",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "lite-server --baseDir=\"public\""
+    "start": "lite-server -- baseDir=\"public\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "private": true,
+  "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
-  },
-  "main": "index.js",
-  "license": "ISC",
-  "description": ""
+  }
 }
